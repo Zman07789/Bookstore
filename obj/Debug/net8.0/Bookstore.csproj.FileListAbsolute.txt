@@ -1,0 +1,14 @@
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.AssemblyInfoInputs.cache
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.AssemblyInfo.cs
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.csproj.CoreCompileInputs.cache
+/Users/zackpaulson/DotNetProjects/Bookstore/bin/Debug/net8.0/Bookstore
+/Users/zackpaulson/DotNetProjects/Bookstore/bin/Debug/net8.0/Bookstore.deps.json
+/Users/zackpaulson/DotNetProjects/Bookstore/bin/Debug/net8.0/Bookstore.runtimeconfig.json
+/Users/zackpaulson/DotNetProjects/Bookstore/bin/Debug/net8.0/Bookstore.dll
+/Users/zackpaulson/DotNetProjects/Bookstore/bin/Debug/net8.0/Bookstore.pdb
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.dll
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/refint/Bookstore.dll
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.pdb
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/Bookstore.genruntimeconfig.cache
+/Users/zackpaulson/DotNetProjects/Bookstore/obj/Debug/net8.0/ref/Bookstore.dll
